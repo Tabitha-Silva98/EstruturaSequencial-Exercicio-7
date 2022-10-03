@@ -1,4 +1,4 @@
-## Getting Started
+## Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
